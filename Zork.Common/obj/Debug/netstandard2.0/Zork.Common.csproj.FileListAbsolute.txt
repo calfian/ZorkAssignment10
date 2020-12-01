@@ -1,0 +1,12 @@
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.deps.json
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.dll
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.pdb
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfoInputs.cache
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfo.cs
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.dll
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.pdb
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Unity\Assets\netstandard2.0\Zork.Common.deps.json
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Unity\Assets\netstandard2.0\Zork.Common.dll
+C:\Users\Christopher\Desktop\ZorkBuilder (1)\Zork.Unity\Assets\netstandard2.0\Zork.Common.pdb
