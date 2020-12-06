@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\UnityInputService.cs" />
     <Compile Include="Assets\Scripts\UnityOutputService.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
@@ -269,11 +270,11 @@
     <Reference Include="UnityEditor">
       <HintPath>C:/Users/Christopher/Desktop/Unity files/2019.4.12f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
-    <Reference Include="Zork.Common">
-      <HintPath>C:/Users/Christopher/Desktop/ZorkBuilder (1)/Zork.Unity/Assets/netstandard2.0/Zork.Common.dll</HintPath>
-    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>C:/Users/Christopher/Desktop/ZorkBuilder (1)/Zork.Unity/Assets/netstandard2.0/Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Zork.Common">
+      <HintPath>C:/Users/Christopher/Desktop/ZorkBuilder (1)/Zork.Unity/Assets/netstandard2.0/Zork.Common.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Users/Christopher/Desktop/Unity files/2019.4.12f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

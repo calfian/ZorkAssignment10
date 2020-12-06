@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using Zork;
-using UnityEngine.UI;
+using TMPro;
 public class UnityOutputService : MonoBehaviour, IOutputService
 {
     public void Clear()
@@ -36,5 +36,5 @@ public class UnityOutputService : MonoBehaviour, IOutputService
         
     }
     [SerializeField]
-    private Text OutputText;
+    private TMP_Text OutputText;
 }
